@@ -1,0 +1,24 @@
+10/03/2020 13:04:50 INFO     Program begins!
+10/03/2020 13:04:50 DEBUG    entering greeter(), parameter is: Our program begins!
+10/03/2020 13:04:50 DEBUG    exiting greeter()
+10/03/2020 13:04:50 INFO     Beginning first matrix operations!
+10/03/2020 13:04:50 DEBUG    Indices: 0 0
+10/03/2020 13:04:50 DEBUG    Indices: 0 1
+10/03/2020 13:04:50 DEBUG    Indices: 0 2
+10/03/2020 13:04:50 DEBUG    Indices: 1 0
+10/03/2020 13:04:50 DEBUG    Indices: 1 1
+10/03/2020 13:04:50 DEBUG    Indices: 1 2
+10/03/2020 13:04:50 DEBUG    Indices: 2 0
+10/03/2020 13:04:50 DEBUG    Indices: 2 1
+10/03/2020 13:04:50 DEBUG    Indices: 2 2
+10/03/2020 13:04:50 INFO     Beginning second matrix operation!
+10/03/2020 13:04:50 DEBUG    Indices: 0 0
+10/03/2020 13:04:50 DEBUG    Indices: 0 1
+10/03/2020 13:04:50 DEBUG    Indices: 0 2
+10/03/2020 13:04:50 DEBUG    Indices: 1 0
+10/03/2020 13:04:50 DEBUG    Indices: 1 1
+10/03/2020 13:04:50 DEBUG    Indices: 1 2
+10/03/2020 13:04:50 DEBUG    Indices: 2 0
+10/03/2020 13:04:50 DEBUG    Indices: 2 1
+10/03/2020 13:04:50 DEBUG    Indices: 2 2
+10/03/2020 13:04:50 INFO     Program ends!
